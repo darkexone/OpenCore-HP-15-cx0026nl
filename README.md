@@ -1,0 +1,1 @@
+# OpenCore-HP-15-cx0026nl
