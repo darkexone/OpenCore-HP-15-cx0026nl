@@ -1,5 +1,5 @@
 # OpenCore [HP Pavilion 15-cx0026nl](https://support.hp.com/lt-en/document/c06293221)
-Used **OC** version: **0.8.5**
+Current **OC** version: **0.9.0**
 
 Working/not working:
 * **Ventura** and **Monterey** checked and they **work like a charm without lags and kernel panics**.
